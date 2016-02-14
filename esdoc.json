@@ -1,0 +1,10 @@
+{
+  "source": "./",
+  "destination": "./esdoc",
+  "excludes": [
+    "\\.config\\.(js|es6)$",
+    "node_modules",
+    "public",
+    "esdoc"
+  ]
+}
